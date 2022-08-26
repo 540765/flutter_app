@@ -4,7 +4,6 @@
 #since 2020-09-03 15:24:31
 now=$(date "+%Y-%m-%d")
 
-git init
 git remote rm origin
 #replace your git location
 git remote add origin 'https://github.com/540765/flutter_app.git'
